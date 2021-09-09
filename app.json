@@ -6,9 +6,9 @@
       "python",
       "proxy"
     ],
-    "website": "https://github.com/urhrrxui/telegram-support-bot",
-    "repository": "https://github.com/urhrrxui/telegram-support-bot",
-    "success_url": "https://github.com/urhrrxui/telegram-support-bot",
+    "website": "https://github.com/urhrrxui/tg-supp-bot",
+    "repository": "https://github.com/urhrrxui/tg-supp-bot",
+    "success_url": "https://github.com/urhrrxui/tg-supp-bot",
     "env": {
       "HEROKU_APP_NAME": {
         "description": "The name of your Heroku app. Yes, again. Just copy-paste it!"
